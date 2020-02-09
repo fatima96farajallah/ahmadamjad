@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118368338787",
+    "firebase_url": "https://savior-90f31.firebaseio.com",
+    "project_id": "savior-90f31",
+    "storage_bucket": "savior-90f31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118368338787:android:f4f034a949fe167c19c956",
+        "android_client_info": {
+          "package_name": "com.example.oxygenapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118368338787-62dcq9k4809vjq59mopk2tu9dmpnm8de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsJCmoym_J3PRa92wfbd--fRbqIqnxAng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118368338787-62dcq9k4809vjq59mopk2tu9dmpnm8de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

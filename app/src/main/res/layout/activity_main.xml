@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/Oxygen"
+            android:layout_width="match_parent"
+            android:layout_height="360dp"
+            android:background="@color/Blue6666ff"
+            android:text="Oxygen"
+            android:textSize="35dp"
+            android:textAlignment="center"
+            android:paddingTop="200dp"
+            android:textColor="@color/colorWhite"
+            tools:layout_editor_absoluteX="308dp"
+            tools:layout_editor_absoluteY="483dp" />
+        <TextView
+            android:id="@+id/HeartRate"
+            android:layout_width="match_parent"
+            android:textAlignment="center"
+            android:paddingTop="200dp"
+            android:textSize="35dp"
+            android:layout_height="366dp"
+            android:background="@color/ff6666"
+            android:text="Heart Rate"
+            android:textColor="@color/colorWhite"
+            />
+    </LinearLayout>
+
+
+
+
+
+
+
+</RelativeLayout>
